@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../web-loyha"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "dinora-o7"
+	}
+}
